@@ -1,3 +1,4 @@
+termux-setup-storage
 apt-get install update
 apt-get install upgrade
 apt-get install curl
@@ -23,4 +24,5 @@ apt-get install npm
 apt-get install nano
 apt-get install nmap
 apt-get install vim
+apt-get install micro
 apt-get install tmux
