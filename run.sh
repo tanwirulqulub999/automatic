@@ -1,28 +1,28 @@
 termux-setup-storage
-apt-get install update
-apt-get install upgrade
-apt-get install curl
-apt-get install wget
-apt-get install git
-apt-get install bash
-apt-get install python
-apt-get install python2
-apt-get install python3
-apt-get install pip
-apt-get install pip2
-apt-get install ruby
-apt-get install perl
-apt-get install php
-apt-get install gem
-apt-get install php-cli
-apt-get install cowsay
-apt-get install figlet
-apt-get install lolcat
-apt-get install toilet
-apt-get install nodejs
-apt-get install npm
-apt-get install nano
-apt-get install nmap
-apt-get install vim
-apt-get install micro
-apt-get install tmux
+apt-get install update -y
+apt-get install upgrade -y
+apt-get install curl -y
+apt-get install wget -y
+apt-get install git -y
+apt-get install bash -y
+apt-get install python -y
+apt-get install python2 -y
+apt-get install python3 -y
+apt-get install pip -y
+apt-get install pip2 -y
+apt-get install ruby -y
+apt-get install perl -y
+apt-get install php -y
+apt-get install gem -y
+apt-get install php-cli -y
+apt-get install cowsay -y
+apt-get install figlet -y
+apt-get install lolcat -y
+apt-get install toilet -y
+apt-get install nodejs -y
+apt-get install npm -y
+apt-get install nano -y
+apt-get install nmap -y
+apt-get install vim -y
+apt-get install micro -y
+gem install lolcat
